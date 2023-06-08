@@ -2,7 +2,7 @@
 if __name__ == "__main__":
     from add_0 import add
 
-    m = 1
-    n = 2
+    a = 1
+    b = 2
 
-    print("{} + {} = {}".format(m, n, add(m, n)))
+    print("{} + {} = {}".format(a, b, add(a, b)))
